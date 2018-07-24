@@ -1,3 +1,5 @@
+###Note... This is a fork of the production theme from themefisher.  We use a fork so we can push back minor local theme changes, and manage updates to official theme via this fork.  Slowing it all down so to speak.
+
 # _Airspace_ for Hugo
 ![screenshot](https://cloud.githubusercontent.com/assets/10640964/24954873/edf64134-1fa2-11e7-8a89-9424ddd15d29.jpg "Home of the website")
 
